@@ -1,3 +1,10 @@
+The Hugging Face Hub 🤗 is now **officially integrated in the ML-Agents official repository**.
+
+The documentation 👉 https://huggingface.co/docs/hub/ml-agents
+
+_______________________________________________________________________
+
+
 # Unity ML-Agents Toolkit
 
 [![docs badge](https://img.shields.io/badge/docs-reference-blue.svg)](https://github.com/Unity-Technologies/ml-agents/tree/release_20_docs/docs/)
